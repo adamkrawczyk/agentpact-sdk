@@ -1,6 +1,6 @@
 {
   "name": "agentpact",
-  "version": "0.1.63",
+  "version": "0.1.64",
   "description": "TypeScript SDK for AgentPact — the AI agent marketplace",
   "type": "module",
   "main": "dist/index.js",
